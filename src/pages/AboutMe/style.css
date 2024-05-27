@@ -1,0 +1,39 @@
+/*about--section*/
+.aboutSection{
+    display: flex;
+    padding: 120px 160px;
+    align-items: center;
+    gap: 60px;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: black;
+}
+  
+.aboutSecImg{
+    margin-left: 30px;
+}
+
+.aboutSecImg > img {
+    width: 100%;
+    height: 100%;
+}
+  
+.aboutSecContentDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 90%;
+}
+
+  
+.aboutSecHeading{
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 75px;
+    margin-bottom: 50px;
+}
+
+.aboutp{
+    color: white;
+    margin: 10px;
+}
