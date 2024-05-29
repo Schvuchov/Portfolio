@@ -1,0 +1,70 @@
+{
+    "skills": [ 
+        {
+            "id": 1,
+            "src": "src/Imagens/tecno/html.jpeg",
+            "title": "HTML",
+            "description": "Certificação em HTML. Intermediário/Avançado."
+        },
+        {
+            "id": 2,
+            "src": "src/Imagens/tecno/css.jpeg",
+            "title": "CSS",
+            "description": "Certificação em CSS. Intermediário/Avançado."
+        },
+        {
+            "id": 3,
+            "src": "src/Imagens/tecno/js.jpeg",
+            "title": "JavaScript",
+            "description": "Certificação em JS. Intermediário/Avançado."
+        },
+        {
+            "id": 4,
+            "src": "src/Imagens/tecno/react.jpeg",
+            "title": "React.js",
+            "description": "Certificação em REACT. Básico/Intermediário."
+        },
+        {
+            "id": 5,
+            "src": "src/Imagens/tecno/node.jpeg",
+            "title": "Node.js",
+            "description": "Certificação em NODE. Básico."
+        },
+        {
+            "id": 6,
+            "src": "src/Imagens/tecno/bd.png",
+            "title": "Banco de Dados",
+            "description": "Certificação em BD relacional. Básico de MySQL, PostgreeSQL."
+        },
+        {
+            "id": 7,
+            "src": "src/Imagens/tecno/git.jpeg",
+            "title": "Git e GitHub",
+            "description": "Certificação em Git e GitHub. Intermediário."
+        },
+        {
+            "id": 8,
+            "src": "src/Imagens/tecno/ma.png",
+            "title": "Metodologias Ágeis",
+            "description": "Certificação em Met.Ágeis. Básico."
+        },
+        {
+            "id": 9,
+            "src": "src/Imagens/tecno/type.png",
+            "title": "Typescript",
+            "description": "Certificação em Typescript. Básico."
+        },
+        {
+            "id": 10,
+            "src": "src/Imagens/tecno/poo.png",
+            "title": "Orientada a Objetos",
+            "description": "Certificação em POO. Básico."
+        },
+        {
+            "id": 11,
+            "src": "src/Imagens/tecno/figma.jpeg",
+            "title": "Figma",
+            "description": "Conhecimento prático básico em Figma."
+        }
+    ]
+}
