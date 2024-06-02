@@ -44,11 +44,12 @@
 .skillsImgDiv{
     display: flex;
     justify-content: flex-start;
+    align-items: center;
     background: lightgrey;
 }
 
 .skillsImg{
-    width: 30%;
+    width: 25%;
     border-radius: 15px;
 }
   
@@ -66,6 +67,7 @@
     font-size: 22px;
     font-weight: 700;
     line-height: 45px;
+    margin-left: 16px;
 }
   
 

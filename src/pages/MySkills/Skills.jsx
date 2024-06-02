@@ -13,10 +13,11 @@ const Skills = () => {
                 <div key={index} className="skillsCard">
                     <div className="skillsImgDiv">
                         <img className="skillsImg" src={item.src} alt="Imagem Habilidade" />
+                        <h3 className="skillsCardTitle">{item.title}</h3>
                     </div>
 
                     <div className="skillsCardContent"> 
-                        <h3 className="skillsCardTitle">{item.title}</h3>
+                        
                         <p className="skillsCardDescrip">{item.description}</p>
                     </div>
                 </div>
