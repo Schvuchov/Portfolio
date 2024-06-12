@@ -41,7 +41,7 @@
 
 /*"navbar--active-content"*/
 .navbarActiveContent {
-    color: var(--primary);
+    color: red;
 }
 
 .btnNavContact{
