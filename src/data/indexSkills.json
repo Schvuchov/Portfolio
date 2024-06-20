@@ -2,67 +2,67 @@
     "skills": [ 
         {
             "id": 1,
-            "src": "src/assets/Imagens/tecno/html.jpeg",
+            "src": "/Imagens/tecno/html.jpeg",
             "title": "HTML",
             "description": "Certificação em HTML. Intermediário/Avançado."
         },
         {
             "id": 2,
-            "src": "src/assets/Imagens/tecno/css.jpeg",
+            "src": "/Imagens/tecno/css.jpeg",
             "title": "CSS",
             "description": "Certificação em CSS. Intermediário/Avançado."
         },
         {
             "id": 3,
-            "src": "src/assets/Imagens/tecno/js.jpeg",
+            "src": "/Imagens/tecno/js.jpeg",
             "title": "JavaScript",
             "description": "Certificação em JS. Intermediário/Avançado."
         },
         {
             "id": 4,
-            "src": "src/assets/Imagens/tecno/react.jpeg",
+            "src": "/Imagens/tecno/react.jpeg",
             "title": "React.js",
             "description": "Certificação em REACT. Básico/Intermediário."
         },
         {
             "id": 5,
-            "src": "src/assets/Imagens/tecno/node.jpeg",
+            "src": "/Imagens/tecno/node.jpeg",
             "title": "Node.js",
             "description": "Certificação em NODE. Básico."
         },
         {
             "id": 6,
-            "src": "src/assets/Imagens/tecno/bd.png",
+            "src": "/Imagens/tecno/bd.png",
             "title": "Banco de Dados",
             "description": "Certificação em BD relacional. Básico de MySQL, PostgreeSQL."
         },
         {
             "id": 7,
-            "src": "src/assets/Imagens/tecno/git.jpeg",
+            "src": "/Imagens/tecno/git.jpeg",
             "title": "Git e GitHub",
             "description": "Certificação em Git e GitHub. Intermediário."
         },
         {
             "id": 8,
-            "src": "src/assets/Imagens/tecno/ma.png",
+            "src": "/Imagens/tecno/ma.png",
             "title": "Metodologias Ágeis",
             "description": "Certificação em Met.Ágeis. Básico."
         },
         {
             "id": 9,
-            "src": "src/assets/Imagens/tecno/type.png",
+            "src": "/Imagens/tecno/type.png",
             "title": "Typescript",
             "description": "Certificação em Typescript. Básico."
         },
         {
             "id": 10,
-            "src": "src/assets/Imagens/tecno/poo.png",
+            "src": "/Imagens/tecno/poo.png",
             "title": "Orientada a Objetos",
             "description": "Certificação em POO. Básico."
         },
         {
             "id": 11,
-            "src": "src/assets/Imagens/tecno/figma.jpeg",
+            "src": "/Imagens/tecno/figma.jpeg",
             "title": "Figma",
             "description": "Conhecimento prático básico em Figma."
         }

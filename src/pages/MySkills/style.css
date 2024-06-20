@@ -33,7 +33,7 @@
 }
   
 .skillsCard:hover{
-    border-bottom: 3px solid red;
+    border-bottom: 3px solid green;
     padding-bottom: 17px;
 }
   

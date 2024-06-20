@@ -11,7 +11,7 @@ const Start = () => {
                 <button className='btn btnContato'>Entre em contato</button>    
             </div>
             <div className='imgStart'>
-                <img src="src/assets/Imagens/startImg1.jpg" alt="Imagem Start" />
+                <img src="/Imagens/startImg1.jpg" alt="Imagem Start" />
 
             </div>
         </section>

@@ -43,7 +43,7 @@ const Navbar = () => {
     <nav className={`navbar ${navActive? "active" : ""}`}>
 
       <div>
-        <img className='logoImg' src="src/assets/Imagens/logo.png" alt="Logo" />
+        <img className='logoImg' src="/Imagens/logo.png" alt="Logo" />
       </div>
 
       <a className={`navHamburguer ${navActive? "active" : ""}`} onClick={toggleNav}>

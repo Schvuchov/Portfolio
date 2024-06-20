@@ -10,7 +10,7 @@ const Contact = () => {
         </div>
         <div className='contactDiv'>
             <div className='contactDivContent'>
-                <img src="src/assets/Imagens/gmail.svg" alt="Email" className='gmailImg'/>
+                <img src="/Imagens/gmail.svg" alt="Email" className='gmailImg'/>
                 <p>schvuchov.k@gmail.com</p>
             </div>
 
