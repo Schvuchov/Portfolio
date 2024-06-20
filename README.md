@@ -5,8 +5,8 @@ Introdução / Habilidades / Sobre mim / Projetos / Contato
 
 
 ## Disponível no link
-https://portfolio-ebon-zeta-17.vercel.app/
-(Imagens com problema)
+https://portfolio-omega-blush-10.vercel.app/
+
 
 
 
