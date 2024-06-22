@@ -6,14 +6,14 @@
             "src": "/Imagens/projetos/gerenciaEvento.png",
             "link": "https://github.com/Schvuchov/GerenciaParticipantes",
             "title": "Gerencia Participantes",
-            "description": "Projeto em React.js, Typescript, TailwindCSS e API Node.js"
+            "description": "Projeto em React.js, Typescript, TailwindCSS e API Node.js."
         },
         {
             "id": 2,
             "src": "/Imagens/projetos/palavraSecreta.png",
             "link": "https://schvuchov.github.io/JogoPalavraSecreta/",
             "title": "Jogo Palavra Secreta",
-            "description": "Jogo para descobrir a palavra desenvolvido usando React.js"
+            "description": "Jogo para descobrir a palavra desenvolvido usando React.js."
         },
         {
             "id": 3,
@@ -27,21 +27,28 @@
             "src": "/Imagens/projetos/petflix.png",
             "link": "https://schvuchov.github.io/Avaliacao_React_Petflix/",
             "title": "Petflix",
-            "description": "Página Petflix desenvolvida para avaliação em React.js"
+            "description": "Página Petflix desenvolvida para avaliação em React.js."
         },
         {
             "id": 5,
             "src": "/Imagens/projetos/mataMosquito.png",
             "link": "https://schvuchov.github.io/Jogo-Mata-Mosquito/",
             "title": "Jogo Mata Mosquito",
-            "description": "Jogo desenvolvido usando HTML, CSS e Javascript"
+            "description": "Jogo desenvolvido usando HTML, CSS e Javascript."
         },
         {
             "id": 6,
             "src": "/Imagens/projetos/gerenciaCondominio.png",
             "link": "https://github.com/Schvuchov/gerenciar_condominio",
             "title": "Gerencia Condominio",
-            "description": "Desenvolvido usando Typescript, gerencia usando classes e métodos"
+            "description": "Desenvolvido usando Typescript, gerencia usando classes e métodos."
+        },
+        {
+            "id": 7,
+            "src": "/Imagens/projetos/CloneHallowen.png",
+            "link": "https://github.com/Schvuchov/ClonePage_Hallowen",
+            "title": "Clone de Página",
+            "description": "Exercício desenvolvido usando HTML e CSS."
         }
     ]
 }
