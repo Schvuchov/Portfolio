@@ -35,6 +35,13 @@
             "link": "https://schvuchov.github.io/Jogo-Mata-Mosquito/",
             "title": "Jogo Mata Mosquito",
             "description": "Jogo desenvolvido usando HTML, CSS e Javascript"
+        },
+        {
+            "id": 6,
+            "src": "/Imagens/projetos/gerenciaCondominio.png",
+            "link": "https://github.com/Schvuchov/gerenciar_condominio",
+            "title": "Gerencia Condominio",
+            "description": "Desenvolvido usando Typescript, gerencia usando classes e métodos"
         }
     ]
 }
