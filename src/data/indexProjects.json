@@ -41,12 +41,26 @@
             "src": "/Imagens/projetos/gerenciaCondominio.png",
             "link": "https://github.com/Schvuchov/gerenciar_condominio",
             "title": "Gerencia Condominio",
-            "description": "Desenvolvido usando Typescript, gerencia usando classes e métodos."
+            "description": "Desenvolvido usando Typescript, gerencia com classes e métodos."
         },
         {
             "id": 7,
+            "src": "/Imagens/projetos/CloneBear.png",
+            "link": "https://github.com/Schvuchov/ClonePage_Bear",
+            "title": "Clone de Página",
+            "description": "Exercício desenvolvido usando HTML e CSS."
+        },
+        {
+            "id": 8,
             "src": "/Imagens/projetos/CloneHallowen.png",
             "link": "https://github.com/Schvuchov/ClonePage_Hallowen",
+            "title": "Clone de Página",
+            "description": "Exercício desenvolvido usando HTML e CSS."
+        },
+        {
+            "id": 9,
+            "src": "/Imagens/projetos/CloneSignIn.png",
+            "link": "https://github.com/Schvuchov/ClonePage_SignIn",
             "title": "Clone de Página",
             "description": "Exercício desenvolvido usando HTML e CSS."
         }
