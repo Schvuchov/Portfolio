@@ -78,6 +78,7 @@
     .navHamburguer {
       display: flex;
       z-index: 200;
+      margin-right: 50px;
     }
     .navbarItems {
       display: flex;
