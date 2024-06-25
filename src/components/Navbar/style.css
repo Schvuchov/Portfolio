@@ -75,10 +75,26 @@
 }
 
 @media screen and (max-width: 1200px) {
+  .navbar{
+    padding: 8px 110px;
+  }
+
+  .navbarItems > ul {
+    gap: 38px;
+    margin-right: 40px;
+  }
+
+  .btnNavContact{
+    padding: 6px 45px;
+  
+  }
+}
+
+@media screen and (max-width: 992px) {
     .navHamburguer {
       display: flex;
       z-index: 200;
-      margin-right: 50px;
+      margin-right: 100px;
     }
     .navbarItems {
       display: flex;
@@ -124,4 +140,16 @@
     .navHamburguer.active :nth-child(3) {
       transform: rotate(-45deg) translate(0.45rem, -0.1875rem);
     }
+
+
+
+    .navbar{
+      padding: 8px 100px;
+    }
+  
+    .btnNavContact{
+      padding: 6px 40px;
+      margin-right: 100px;
+    }
+    
   }
