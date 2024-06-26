@@ -6,7 +6,7 @@ const Start = () => {
         <section id="startSection" className='startSec'>
             <div className='conteudoSec'>
                 <p className='startp'>Olá! Meu nome é Bárbara e esse é o meu portfolio</p>
-                <h1>Dev <span>Front End</span> </h1>
+                <h1>Dev <span>Front End</span></h1>
                 <p className='startp'>Fique a vontade para explorar por aqui</p>
                 <button className='btn btnContato'>Entre em contato</button>    
             </div>
