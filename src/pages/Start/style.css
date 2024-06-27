@@ -68,7 +68,8 @@ h1 {
 
 @media screen and (max-width: 1200px) {
     .startSec{
-        padding: 120px 110px;
+        padding: 120px 100px;
+        width: 100%;
     }
     h1{
         font-size: 80px;
@@ -78,7 +79,7 @@ h1 {
 
 @media screen and (max-width: 992px) {
     .startSec{
-        padding: 120px 100px;
+        padding: 120px 150px;
     }
     .conteudoSec{
         gap: 22px;
@@ -88,23 +89,23 @@ h1 {
         margin-bottom: 6px;
     }
     .startp{
-        font-size: 18px;
+        font-size: 20px;
     }
     .btnContato {
-        padding: 10px 90px;
+        padding: 10px 110px;
     }
 }
 
 @media screen and (max-width: 840px) {
     .startSec{
-        padding: 110px 80px;
+        padding: 110px 180px;
         flex-direction: column;
         align-items: center;
         justify-content: start;
-        gap: 32px;
+        gap: 38px;
     }
     h1{
-        font-size: 76px;
+        font-size: 80px;
         margin-bottom: 6px;
     }
     .imgStart {
@@ -115,18 +116,17 @@ h1 {
 
 @media screen and (max-width: 768px) {
     .startSec{
-        padding: 100px 70px;
-        gap: 32px;
+        padding: 100px 270px;
+        gap: 36px;
     }
     h1{
-        font-size: 70px;
         margin-bottom: 2px;
     }
     .conteudoSec{
         gap: 12px;
     }
     .btnContato {
-        padding: 8px 90px;
+        padding: 8px 110px;
     }
 }
 
@@ -135,7 +135,7 @@ h1 {
         width: 0%;
     }
     .startSec{
-        padding: 90px 60px;
+        padding: 90px 310px;
         margin-top: 85px;
     }
     h1{
