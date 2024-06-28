@@ -49,7 +49,7 @@
     align-items: center;
     justify-content: center;
     gap: 20px;
-    width: 100%;
+
 }
 
 /*"portfolio--section--card"   div key*/
@@ -102,12 +102,28 @@
     }
     .projectsCard{
         grid-template-columns: repeat(3, 1fr);
-        gap: 16px;
     }
     .projectsCardContent{
         min-height: 320px;
+        width: 98%;
     }
     .projectsCardText{
         padding: 10px 20px;
     }
+}
+
+@media screen and (max-width: 768px) {
+    .projectsSection{
+        padding: 100px 60px;
+        gap: 50px;
+    }
+    .projectsCard{
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+    }
+    
+    .projectsCardContent{
+        min-height: 330px;
+    }
+
 }
