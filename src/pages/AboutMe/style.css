@@ -49,6 +49,7 @@
         gap: 60px;
     }
     .aboutContainerContent{
+        flex-direction: column;
         gap: 10px;
     }
     .aboutSecContentDiv{
@@ -56,5 +57,19 @@
     }
     .aboutpContent{
         margin: 20px 0px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .aboutSection{
+        padding: 100px 60px;
+        gap: 50px;
+    }
+    .aboutSecImg{
+        width: 60%;
+    }
+    .aboutpContent{
+        font-size: 20px;
+        margin: 18px 0px;
     }
 }
