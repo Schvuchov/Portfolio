@@ -89,3 +89,9 @@
     font-size: 22px;
     padding-bottom: 10px;
 }
+
+
+/*responsividade*/
+@media screen and (max-width: 1024px) {
+    
+}

@@ -77,4 +77,15 @@
     font-weight: 400;
     line-height: 26px;
 }
-  
+
+/*respondividade*/
+@media screen and (max-width: 1024px) {
+    .skillsSection{
+        padding: 120px 100px;
+        gap: 60px;
+    }
+    .skillsContainerContent{
+        gap: 30px;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
