@@ -90,10 +90,10 @@ h1 {
 
 @media screen and (max-width: 768px) {
     .startSec{
-        padding: 120px 60px;
+        padding: 140px 70px;
     }
     .conteudoSec{
-        gap: 16px;
+        gap: 10px;
     }
     h1{
         font-size: 64px;

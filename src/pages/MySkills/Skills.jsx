@@ -6,7 +6,7 @@ const Skills = () => {
     <section id="skillsSection" className='skillsSection'>
         <div>
             <h2 className="skillsh2">Conhecimentos</h2>
-            <p>Alguns dos meus conhecimentos</p>
+            <p className="skillsp">Alguns dos meus conhecimentos</p>
         </div>
         <div className="skillsContainerContent">
             {data?.skills?.map((item, index) => (
@@ -17,7 +17,6 @@ const Skills = () => {
                     </div>
 
                     <div className="skillsCardContent"> 
-                        
                         <p className="skillsCardDescrip">{item.description}</p>
                     </div>
                 </div>

@@ -53,7 +53,6 @@
     border-radius: 15px;
 }
   
-
 .skillsCardContent{
     display: flex;
     flex-direction: column;
@@ -69,7 +68,6 @@
     line-height: 30px;
     margin-left: 16px;
 }
-  
 
 .skillsCardDescrip{
     font-size: 18px;
@@ -96,15 +94,26 @@
 
 @media screen and (max-width: 768px) {
     .skillsSection{
-        padding: 120px 100px;
-        gap: 60px;
+        padding: 100px 60px;
+        gap: 50px;
     }
     .skillsContainerContent{
-        gap: 30px;
+        gap: 20px;
         grid-template-columns: repeat(2, 1fr);
+
     }
     .skillsCard{
-        gap: 20px;
-        min-height: 160px;
+        gap: 8px;
+        min-height: 120px;
+        width: 90%;
+        justify-content: space-around;
+        padding: 18px 20px;
     }
+    .skillsImg{
+        width: 24%;
+    }
+
+    .skillsp, .skillsCardDescrip {
+}
+
 }
