@@ -93,3 +93,18 @@
         min-height: 160px;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .skillsSection{
+        padding: 120px 100px;
+        gap: 60px;
+    }
+    .skillsContainerContent{
+        gap: 30px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .skillsCard{
+        gap: 20px;
+        min-height: 160px;
+    }
+}

@@ -101,23 +101,21 @@
 }
 
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 768px) {
   .navbar{
-    padding: 8px 100px;
+    padding: 8px 60px;
   }
 
   .btnNavContact{
     padding: 6px 40px;
-    margin-right: 100px;
+    margin-right: 90px;
   }
 
-
   /*menu hamburguer*/
-
   .navHamburguer {
     display: flex;
     z-index: 200;
-    margin-right: 90px;
+    margin-right: 40px;
   }
   .navbarItems {
     display: flex;

@@ -1,14 +1,13 @@
 .startSec {
     background-color: black;
     margin-top: 95px;
-    width: 100%;
+    padding: 120px 160px;
 }
 
 .divStartSec{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 120px 160px;
 }
 
 .conteudoSec {
@@ -59,7 +58,7 @@ h1 {
         margin-bottom: 25px;
     }
     .startp{
-        font-size: 20px;
+        font-size: 22px;
     }
     .btnContato {
         padding: 12px 90px;
@@ -70,7 +69,7 @@ h1 {
 }
 
 @media screen and (max-width: 1024px) {
-    .divStartSec{
+    .startSec {
         padding: 140px 100px;
     }
     .conteudoSec {
@@ -88,24 +87,26 @@ h1 {
     }
 }
 
-/*
-@media screen and (max-width: 992px) {
+
+@media screen and (max-width: 768px) {
     .startSec{
-        padding: 120px 150px;
-        gap: 40px;
+        padding: 120px 60px;
     }
     .conteudoSec{
-        gap: 22px;
+        gap: 16px;
     }
     h1{
-        font-size: 80px;
+        font-size: 64px;
         margin-bottom: 6px;
     }
     .startp{
-        font-size: 20px;
+        font-size: 18px;
     }
     .btnContato {
-        padding: 10px 110px;
+        padding: 10px 90px;
+    }
+    .imgStart {
+        width: 30%;
     }
 }
-*/
+
