@@ -65,18 +65,26 @@ h1 {
         padding: 12px 90px;
     }
     .imgStart {
-        display: flex;
         width: 30%;
     }
 }
 
 @media screen and (max-width: 1024px) {
     .divStartSec{
-        padding: 120px 100px;
+        padding: 140px 100px;
+    }
+    .conteudoSec {
+        gap: 24px;
     }
     h1{
         font-size: 78px;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
+    }
+    .btnContato {
+        padding: 12px 110px;
+    }
+    .imgStart {
+        width: 32%;
     }
 }
 

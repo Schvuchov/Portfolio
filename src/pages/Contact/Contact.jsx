@@ -9,7 +9,7 @@ const Contact = () => {
             <p>Entre em contato comigo</p>
         </div>
         <div className='contactDiv'>
-            <div className='contactDivContent'>
+            <div className='contactDivContent gmail'>
                 <img src="/Imagens/gmail.svg" alt="Email" className='gmailImg'/>
                 <p>schvuchov.k@gmail.com</p>
             </div>

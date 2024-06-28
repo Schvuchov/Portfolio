@@ -3,7 +3,7 @@
     display: flex;
     padding: 120px 160px;
     flex-direction: column;
-    gap: 40px;
+    gap: 80px;
     background-color: rgb(235, 235, 235);
 }
 
@@ -34,6 +34,10 @@
     border-radius: 10px;
 }
 
+.gmail{
+    padding: 24px 20px;
+}
+
 .gmailImg{
     width: 24px;
     padding: 2px 10px 2px 4px;
@@ -46,6 +50,13 @@
 
 .linkedinImg{
     padding-right: 6px;
+}
+
+/*responsividade*/
+@media screen and (max-width: 1024px) {
+    .contactSection{
+        gap: 60px;
+    }
 }
 
 

@@ -75,3 +75,11 @@
 .footerP{
     color: white;
 }
+
+
+/*responsividade*/
+@media screen and (max-width: 1024px) {
+    .footer--container {
+        padding: 8px 88px;
+    }
+}

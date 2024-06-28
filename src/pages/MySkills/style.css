@@ -88,4 +88,8 @@
         gap: 30px;
         grid-template-columns: repeat(3, 1fr);
     }
+    .skillsCard{
+        gap: 20px;
+        min-height: 160px;
+    }
 }
