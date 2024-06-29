@@ -56,7 +56,25 @@
 @media screen and (max-width: 1024px) {
     .contactSection{
         gap: 60px;
+        padding: 120px 100px;
     }
+}
+
+@media screen and (max-width: 768px) {
+    .contactSection{
+        gap: 50px;
+        padding: 100px 60px;
+    }
+    .contactDivContent{
+        padding: 12px;
+    }
+    .gmailImg{
+        padding: 6px 10px 6px 4px;
+    }
+    .gitImg{
+        padding: 4px 10px 4px 4px;
+    }
+    
 }
 
 
