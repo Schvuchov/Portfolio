@@ -76,3 +76,23 @@
         margin: 18px 0px;
     }
 }
+
+@media screen and (max-width: 426px) {
+    .aboutSection{
+        padding: 60px 30px;
+        gap: 40px;
+    }
+    .aboutSecImg{
+        width: 54%;
+    }
+    .aboutpContent{
+        font-size: 16px;
+        margin: 18px 0px;
+    }
+    .abouth2{
+        font-size: 36px;
+    }
+    .aboutp{
+        font-size: 16px;
+    }
+}
