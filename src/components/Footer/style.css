@@ -1,5 +1,5 @@
 /*footer--container   footer*/
-.footer--container {
+.footerContainer {
     display: flex;
     padding: 5px 160px;
     flex-direction: column;
@@ -10,26 +10,12 @@
 }
 
 /*footer--link--container  primeira div*/
-.footer--link--container {
+.footerLinkContainer {
     display: flex;
     justify-content: space-between;
     align-items: center;
     align-self: stretch;
 }
-
-/*footer--items   div da ul*/
-.footer--items > ul {
-    list-style: none;
-    display: flex;
-    align-items: flex-start;
-    gap: 42.667px;
-    text-decoration: none;
-}
-
-.footer--items ul > li > a {
-    text-decoration: none;
-}
-
 
 
 .logoFooter{
@@ -54,7 +40,7 @@
 
 
 /*footer--social--icon*/
-.footer--social--icon > ul {
+.footerSocialIcon > ul {
     list-style: none;
     display: flex;
     justify-content: flex-end;
@@ -79,19 +65,19 @@
 
 /*responsividade*/
 @media screen and (max-width: 1024px) {
-    .footer--container {
+    .footerContainer {
         padding: 8px 88px;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .footer--container {
+    .footerContainer {
         padding: 8px 60px;
     }
 }
 
 @media screen and (max-width: 426px) {
-    .footer--container {
+    .footerContainer {
         padding: 2px 30px;
     }
     .logoFooter{

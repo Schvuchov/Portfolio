@@ -3,13 +3,13 @@ import './style.css'
 
 function Footer() {
   return (
-    <footer className="footer--container">
-      <div className="footer--link--container">
+    <footer className="footerContainer">
+      <div className="footerLinkContainer">
         <div>
           <img className="logoFooter" src="/Imagens/logo.png" alt="Logo" />
         </div>
 
-        <div className="footer--social--icon">
+        <div className="footerSocialIcon">
           <ul>
             <li>
               <a 
