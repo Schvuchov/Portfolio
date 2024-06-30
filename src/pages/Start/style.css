@@ -110,3 +110,32 @@ h1 {
     }
 }
 
+@media screen and (max-width: 426px) {
+    .startSec{
+        margin-top: 70px;
+        padding: 60px 30px;
+    }
+    .divStartSec{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .conteudoSec{
+        gap: 4px;
+    }
+    h1{
+        font-size: 54px;
+        margin-bottom: 0px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .startp{
+        font-size: 16px;
+    }
+    .btnContato {
+        padding: 6px 72px;
+        margin-top: 4px;
+    }
+    .imgStart {
+        width: 48%;
+    }
+}

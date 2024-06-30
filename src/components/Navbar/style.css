@@ -163,3 +163,19 @@
   }
 
 }
+
+@media screen and (max-width: 426px) {
+  .navbar{
+    padding: 2px 30px;
+  }
+  .btnNavContact{
+    padding: 4px 20px;
+    margin-right: 70px;
+  }
+  .navHamburguer {
+    margin-right: 10px;
+  }
+  .logoImg{
+    width: 40%;
+}
+}

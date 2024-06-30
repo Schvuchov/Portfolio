@@ -114,7 +114,11 @@
         width: 24%;
     }
 
-    .skillsp, .skillsCardDescrip {
 }
 
+
+@media screen and (max-width: 426px) {
+    .skillsContainerContent{
+        grid-template-columns: repeat(1, 1fr);
+    }
 }
