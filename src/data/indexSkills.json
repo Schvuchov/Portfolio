@@ -4,25 +4,25 @@
             "id": 1,
             "src": "/Imagens/tecno/html.jpeg",
             "title": "HTML",
-            "description": "Certificação em HTML. Intermediário/Avançado."
+            "description": "Certificação em HTML. Intermediário/ Avançado."
         },
         {
             "id": 2,
             "src": "/Imagens/tecno/css.jpeg",
             "title": "CSS",
-            "description": "Certificação em CSS. Intermediário/Avançado."
+            "description": "Certificação em CSS. Intermediário/ Avançado."
         },
         {
             "id": 3,
             "src": "/Imagens/tecno/js.jpeg",
             "title": "JavaScript",
-            "description": "Certificação em JS. Intermediário/Avançado."
+            "description": "Certificação em JS. Intermediário/ Avançado."
         },
         {
             "id": 4,
             "src": "/Imagens/tecno/react.jpeg",
             "title": "React.js",
-            "description": "Certificação em REACT. Básico/Intermediário."
+            "description": "Certificação em REACT. Básico/ Intermediário."
         },
         {
             "id": 5,
@@ -34,7 +34,7 @@
             "id": 6,
             "src": "/Imagens/tecno/bd.png",
             "title": "Banco de Dados",
-            "description": "Certificação em BD relacional. Básico de MySQL, PostgreeSQL."
+            "description": "Certificação em BD relacional. MySQL, PostgreeSQL Básico."
         },
         {
             "id": 7,

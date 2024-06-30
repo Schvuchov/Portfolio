@@ -118,7 +118,35 @@
 
 
 @media screen and (max-width: 426px) {
+    .skillsSection{
+        padding: 60px 30px;
+        gap: 40px;
+    }
     .skillsContainerContent{
         grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+    }
+    .skillsh2{
+        font-size: 36px;
+    }
+    .skillsp{
+        font-size: 16px;
+    }
+    .skillsCard{
+        gap: 4px;
+        min-height: 98px;
+        width: 94%;
+        justify-content: space-around;
+        padding: 14px 16px;
+    }
+    .skillsImg{
+        width: 14%;
+    }
+    .skillsCardTitle{
+        margin-left: 10px;
+        font-size: 20px;
+    }
+    .skillsCardDescrip{
+        font-size: 16px;
     }
 }
