@@ -77,6 +77,26 @@
     
 }
 
+@media screen and (max-width: 426px) {
+    .contactSection{
+        gap: 40px;
+        padding: 60px 30px;
+    }
+    .contactsh2{
+        font-size: 36px;
+    }
+
+    .contactp{
+        font-size: 16px;
+    }
+    .contactDiv{
+        gap: 16px;
+    }
+    .contactDivContent{
+        width: 80%;
+    }
+}
+
 
 
 

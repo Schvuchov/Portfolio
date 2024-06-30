@@ -6,12 +6,12 @@ const Contact = () => {
     <section id="contactSection" className='contactSection'>
         <div className='contactTitle'>
             <h2 className='contactsh2'>Contato</h2>
-            <p>Entre em contato comigo</p>
+            <p className='contactp'>Entre em contato comigo</p>
         </div>
         <div className='contactDiv'>
             <div className='contactDivContent gmail'>
                 <img src="/Imagens/gmail.svg" alt="Email" className='gmailImg'/>
-                <p>schvuchov.k@gmail.com</p>
+                <p className='contactp'>schvuchov.k@gmail.com</p>
             </div>
 
             <div className='contactDivContent'>
