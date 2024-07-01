@@ -193,3 +193,16 @@
         width: 100%;
     }
 }
+
+@media screen and (max-width: 320px) {
+    .projectsSection{
+        padding: 40px 30px;
+    }
+    .projectsh2{
+        font-size: 30px;
+    }
+    .projectsCard{
+        width: 88%;
+        gap: 10px;
+    }
+}

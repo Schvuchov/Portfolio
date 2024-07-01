@@ -164,3 +164,20 @@ h1 {
         width: 46%;
     }
 }
+
+@media screen and (max-width: 320px) {
+    .startSec{
+        padding: 40px 30px;
+        margin-top: 60px;
+    }
+    .divStartSec{
+        gap: 20px;
+    }
+    h1{
+        font-size: 40px;
+        width: 98%;
+    }
+    .conteudoSec{
+        gap: 0px;
+    }
+}

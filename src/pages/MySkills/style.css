@@ -182,3 +182,20 @@
         font-size: 16px;
     }
 }
+
+@media screen and (max-width: 320px) {
+    .skillsSection{
+        padding: 40px 30px;
+    }
+    .skillsh2{
+        font-size: 30px;
+    }
+    .skillsContainerContent{
+        gap: 4px;
+        margin-left: 24px;
+    }
+    .skillsCard{
+        padding: 10px 4px 8px 12px;
+        width: 76%;
+    }
+}
