@@ -99,3 +99,22 @@
         width: 100%;
     }
 }
+
+@media screen and (max-width: 375px) {
+    .aboutSection{
+        padding: 50px 30px;
+        gap: 30px;
+    }
+    .abouth2{
+        font-size: 32px;
+    }
+    .aboutp{
+        font-size: 14px;
+    }
+    .aboutSecImg{
+        width: 54%;
+    }
+    .aboutpContent{
+        margin: 14px 0px;
+    }
+}

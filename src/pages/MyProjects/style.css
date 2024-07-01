@@ -70,7 +70,7 @@
 }
 
 .projectsCardImg > img {
-    border: 2px solid black;
+    border: 0px;
     border-radius: 12px;
     width: 100%;
 }
@@ -159,5 +159,37 @@
     .projectsh3{
         font-size: 20px;
         padding-bottom: 4px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .projectsSection{
+        padding: 50px 30px;
+        gap: 30px;
+    }
+    .projectsh2{
+        font-size: 32px;
+    }
+    .projectsp{
+        font-size: 14px;
+    }
+    .projectsButton{
+        padding: 2px 14px;
+        margin-top: 10px;
+        border: 1px solid black;
+        font-size: 14px;
+    }
+    .projectsCard{
+        width: 90%;
+    }
+    .projectsh3{
+        font-size: 16px;
+    }
+    .projectsCardContent{
+        min-height: 220px;
+    }
+    .projectsCardImg > img {
+        border-radius: 12px;
+        width: 100%;
     }
 }
