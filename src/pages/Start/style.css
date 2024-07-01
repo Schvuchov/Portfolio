@@ -113,7 +113,7 @@ h1 {
 @media screen and (max-width: 426px) {
     .startSec{
         margin-top: 70px;
-        padding: 60px 30px;
+        padding: 60px 20px;
     }
     .divStartSec{
         flex-direction: column;
@@ -157,7 +157,7 @@ h1 {
         font-size: 14px;
     }
     .btnContato {
-        padding: 6px 68px;
+        padding: 4px 64px;
         font-size: 14px;
     }
     .imgStart {
