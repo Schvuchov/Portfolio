@@ -83,7 +83,7 @@
         gap: 40px;
     }
     .aboutSecImg{
-        width: 54%;
+        width: 60%;
     }
     .aboutpContent{
         font-size: 16px;
@@ -94,5 +94,8 @@
     }
     .aboutp{
         font-size: 16px;
+    }
+    .aboutSecContentDiv{
+        width: 100%;
     }
 }

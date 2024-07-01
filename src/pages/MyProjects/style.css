@@ -150,7 +150,7 @@
 
     .projectsCard{
         grid-template-columns: repeat(1, 1fr);
-        width: 86%;
+        width: 90%;
     }
     .projectsCardContent{
         width: 100%;
