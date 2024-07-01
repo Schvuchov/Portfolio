@@ -84,3 +84,13 @@
         width: 40%;
     }
 }
+
+@media screen and (max-width: 375px) {
+    .footerContainer {
+        padding: 0px 30px;
+    }
+    .logoFooter{
+        width: 36%;
+        margin-left: 4px;
+    }
+}
