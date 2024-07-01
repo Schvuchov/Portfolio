@@ -119,11 +119,45 @@
     }
     .projectsCard{
         grid-template-columns: repeat(2, 1fr);
-        gap: 16px;
     }
     
     .projectsCardContent{
         min-height: 330px;
     }
 
+}
+
+@media screen and (max-width: 426px) {
+    .projectsSection{
+        padding: 60px 30px;
+        gap: 40px;
+    }
+    .projectsTitleSec{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .projectsh2{
+        font-size: 36px;
+    }
+    .projectsp{
+        font-size: 16px;
+    }
+    .projectsButton{
+        padding: 4px 16px;
+        margin-top: 12px;
+    }
+
+    .projectsCard{
+        grid-template-columns: repeat(1, 1fr);
+        width: 86%;
+    }
+    .projectsCardContent{
+        width: 100%;
+        min-height: 280px;
+    }
+    .projectsh3{
+        font-size: 20px;
+        padding-bottom: 4px;
+    }
 }
