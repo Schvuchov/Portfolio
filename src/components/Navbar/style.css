@@ -177,12 +177,16 @@
   }
   .logoImg{
     width: 40%;
-}
+  }
 }
 
 @media screen and (max-width: 375px) {
   .btnNavContact{
     padding: 2px 12px;
     margin-right: 62px;
+    font-size: 14px;
+  }
+  .logoImg{
+    width: 38%;
   }
 }

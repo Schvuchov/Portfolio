@@ -139,3 +139,28 @@ h1 {
         width: 52%;
     }
 }
+
+@media screen and (max-width: 375px) {
+    .startSec{
+        padding: 50px 20px;
+    }
+    .divStartSec{
+        gap: 30px;
+    }
+    .conteudoSec{
+        gap: 2px;
+    }
+    h1{
+        font-size: 50px;
+    }
+    .startp{
+        font-size: 14px;
+    }
+    .btnContato {
+        padding: 6px 68px;
+        font-size: 14px;
+    }
+    .imgStart {
+        width: 46%;
+    }
+}
