@@ -77,18 +77,53 @@
 }
 
 /*respondividade*/
+@media screen and (max-width: 1400px) {
+    .skillsContainerContent{
+        gap: 20px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .skillsContainerContent{
+        gap: 28px;
+        grid-template-columns: repeat(3, 1fr);
+        width: 98%;
+    }
+}
+
 @media screen and (max-width: 1024px) {
     .skillsSection{
         padding: 120px 100px;
         gap: 60px;
     }
     .skillsContainerContent{
-        gap: 30px;
-        grid-template-columns: repeat(3, 1fr);
-        width: 98%;
+        gap: 24px;
     }
     .skillsCard{
         gap: 20px;
+        min-height: 160px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .skillsContainerContent{
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+    .skillsCard{
+        gap: 12px;
+        min-height: 140px;
+        width: 86%;
+        padding: 18px 22px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .skillsContainerContent{
+        gap: 20px;
+    }
+    .skillsCard{
+        gap: 14px;
         min-height: 160px;
     }
 }
@@ -98,13 +133,10 @@
         padding: 100px 60px;
         gap: 50px;
     }
-    .skillsContainerContent{
-        gap: 20px;
-        grid-template-columns: repeat(2, 1fr);
-    }
+    
     .skillsCard{
         gap: 8px;
-        min-height: 120px;
+        min-height: 130px;
         width: 90%;
         justify-content: space-around;
         padding: 18px 20px;
@@ -115,15 +147,44 @@
 
 }
 
+@media screen and (max-width: 700px) {
+    .skillsCard{
+        min-height: 150px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .skillsContainerContent{
+        gap: 12px;
+    }
+    .skillsCard{
+        gap: 4px;
+        min-height: 160px;
+        width: 90%;
+        justify-content: space-around;
+        padding: 16px 14px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .skillsContainerContent{
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+    }
+    .skillsCard{
+        gap: 10px;
+        min-height: 120px;
+        width: 96%;
+    }
+    .skillsImg{
+        width: 18%;
+    }
+}
 
 @media screen and (max-width: 426px) {
     .skillsSection{
         padding: 60px 30px;
         gap: 40px;
-    }
-    .skillsContainerContent{
-        grid-template-columns: repeat(1, 1fr);
-        gap: 10px;
     }
     .skillsh2{
         font-size: 36px;

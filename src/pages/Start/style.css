@@ -61,12 +61,13 @@ h1 {
         font-size: 22px;
     }
     .btnContato {
-        padding: 12px 90px;
+        padding: 12px 130px;
     }
     .imgStart {
         width: 30%;
     }
 }
+
 
 @media screen and (max-width: 1024px) {
     .startSec {
