@@ -68,6 +68,20 @@ h1 {
     }
 }
 
+@media screen and (max-width: 1100px) {
+    .startSec {
+        margin-top: 60px;
+    }
+    .conteudoSec {
+        gap: 20px;
+    }
+    h1{
+        font-size: 74px;
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: space-around;
+    }
+}
 
 @media screen and (max-width: 1024px) {
     .startSec {
@@ -77,28 +91,37 @@ h1 {
         gap: 24px;
     }
     h1{
-        font-size: 78px;
+        font-size: 70px;
         margin-bottom: 10px;
     }
     .btnContato {
-        padding: 12px 110px;
+        padding: 12px 120px;
     }
     .imgStart {
         width: 32%;
     }
 }
 
+@media screen and (max-width: 950px) {
+    h1{
+        font-size: 72px;
+        margin-bottom: 8px;
+    }
+    .startp{
+        font-size: 20px;
+    }
+    .btnContato {
+        padding: 10px 110px;
+    }
+}
 
-@media screen and (max-width: 768px) {
-    .startSec{
-        padding: 140px 70px;
+@media screen and (max-width: 860px) {
+    h1{
+        font-size: 60px;
+        margin-bottom: 0px;
     }
     .conteudoSec{
         gap: 10px;
-    }
-    h1{
-        font-size: 64px;
-        margin-bottom: 6px;
     }
     .startp{
         font-size: 18px;
@@ -111,13 +134,65 @@ h1 {
     }
 }
 
+@media screen and (max-width: 768px) {
+    .startSec{
+        padding: 140px 70px;
+    }
+    h1{
+        font-size: 58px;
+        margin-bottom: 6px;
+    }
+    .imgStart {
+        width: 26%;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .divStartSec{
+        flex-direction: column;
+        gap: 40px;
+    }
+    h1{
+        font-size: 62px;
+        margin-bottom: 6px;
+    }
+    .imgStart {
+        width: 40%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .imgStart {
+        width: 48%;
+    }
+    h1{
+        font-size: 58px;
+    }
+    .startp{
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .startSec{
+        padding: 100px 50px;
+    }
+    h1{
+        font-size: 50px;
+    }
+    
+    .btnContato {
+        padding: 6px 72px;
+        margin-top: 4px;
+    }
+}
+
 @media screen and (max-width: 426px) {
     .startSec{
         margin-top: 70px;
         padding: 60px 20px;
     }
     .divStartSec{
-        flex-direction: column;
         gap: 38px;
     }
     .conteudoSec{
@@ -125,19 +200,28 @@ h1 {
     }
     h1{
         font-size: 54px;
-        margin-bottom: 0px;
-        display: flex;
-        justify-content: space-around;
-    }
-    .startp{
-        font-size: 16px;
-    }
-    .btnContato {
-        padding: 6px 72px;
-        margin-top: 4px;
+        margin-bottom: 0px;  
     }
     .imgStart {
         width: 52%;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .startSec{
+        margin-top: 60px;
+    }
+    .divStartSec{
+        gap: 32px;
+    }
+    .conteudoSec{
+        gap: 4px;
+    }
+    h1{
+        font-size: 52px;
+    }
+    .imgStart {
+        width: 50%;
     }
 }
 
@@ -163,6 +247,16 @@ h1 {
     }
     .imgStart {
         width: 46%;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .startSec{
+        margin-top: 50px;
+    }
+    h1{
+        font-size: 46px;
+        width: 98%;
     }
 }
 
