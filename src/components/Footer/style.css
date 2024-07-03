@@ -62,11 +62,17 @@
     color: white;
 }
 
-
 /*responsividade*/
+
+@media screen and (max-width: 1200px) {
+    .footerContainer {
+        padding: 8px 114px;
+    }
+}
+
 @media screen and (max-width: 1024px) {
     .footerContainer {
-        padding: 8px 88px;
+        padding: 8px 90px;
     }
 }
 
