@@ -1,6 +1,8 @@
 import React from 'react';
 import "./style.css"
 
+import { Link } from "react-scroll"
+
 const Start = () => {
     return (
         <section id="startSection" className='startSec'>
@@ -9,7 +11,16 @@ const Start = () => {
                     <p className='startp'>Olá! Meu nome é Bárbara e esse é o meu portfolio</p>
                     <h1>Dev <span>Front End</span></h1>
                     <p className='startp'>Fique a vontade para explorar por aqui</p>
-                    <button className='btn btnContato'>Entre em contato</button>    
+                    <Link 
+                        spy={true}
+                        smooth={true}
+                        offset={-70}
+                        duration={500} 
+                        to="contactSection" 
+                        className='btn btnContato'
+                    >
+                        Entre em contato
+                    </Link>    
                 </div>
                 <div className='imgStart'>
                     <img src="/Imagens/startImg1.jpg" alt="Imagem Start" />
