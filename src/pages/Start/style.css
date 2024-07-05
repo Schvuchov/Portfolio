@@ -1,7 +1,7 @@
 .startSec {
     background-color: black;
-    margin-top: 95px;
     padding: 120px 160px;
+    padding-top: 220px; 
 }
 
 .divStartSec{
@@ -31,6 +31,9 @@ h1 {
     align-self: stretch;
 }
 
+.spanStart{
+    color: #53C1AB;
+}
 
 .btnContato {
     padding: 12px 120px;
@@ -70,7 +73,7 @@ h1 {
 
 @media screen and (max-width: 1100px) {
     .startSec {
-        margin-top: 60px;
+        padding-top: 200px;
     }
     .conteudoSec {
         gap: 20px;
@@ -86,6 +89,7 @@ h1 {
 @media screen and (max-width: 1024px) {
     .startSec {
         padding: 140px 100px;
+        padding-top: 200px;
     }
     .conteudoSec {
         gap: 24px;
@@ -137,6 +141,7 @@ h1 {
 @media screen and (max-width: 768px) {
     .startSec{
         padding: 140px 70px;
+        padding-top: 200px;
     }
     h1{
         font-size: 58px;
@@ -176,6 +181,7 @@ h1 {
 @media screen and (max-width: 500px) {
     .startSec{
         padding: 100px 50px;
+        padding-top: 160px;
     }
     h1{
         font-size: 50px;

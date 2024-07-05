@@ -9,7 +9,7 @@ const Start = () => {
             <div className='divStartSec'>
                 <div className='conteudoSec'>
                     <p className='startp'>Olá! Meu nome é Bárbara e esse é o meu portfolio</p>
-                    <h1>Dev <span>Front End</span></h1>
+                    <h1>Dev <span className='spanStart'>Front End</span></h1>
                     <p className='startp'>Fique a vontade para explorar por aqui</p>
                     <Link 
                         spy={true}
