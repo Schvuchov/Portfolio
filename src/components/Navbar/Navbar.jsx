@@ -74,7 +74,7 @@ const Navbar = () => {
               activeClass="navbarActiveContent"
               spy={true}
               smooth={true}
-              offset={-80}
+              offset={-40}
               duration={500}
               to="skillsSection"
               className="navbarContent"
@@ -88,7 +88,7 @@ const Navbar = () => {
               activeClass="navbarActiveContent"
               spy={true}
               smooth={true}
-              offset={-80}
+              offset={-10}
               duration={500}
               to="aboutSection"
               className="navbarContent"
@@ -102,7 +102,7 @@ const Navbar = () => {
               activeClass="navbarActiveContent"
               spy={true}
               smooth={true}
-              offset={0}
+              offset={-10}
               duration={500}
               to="projectsSection"
               className="navbarContent"
@@ -118,7 +118,7 @@ const Navbar = () => {
         activeClass="navbarActiveContent"
         spy={true}
         smooth={true}
-        offset={-80}
+        offset={-10}
         duration={500}
         to="contactSection"
         className="btn btnNavContact"
