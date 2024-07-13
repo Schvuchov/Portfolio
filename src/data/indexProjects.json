@@ -3,62 +3,69 @@
     "projects": [
         {
             "id": 1,
+            "src": "/Imagens/projetos/planner.png",
+            "link": "https://github.com/Schvuchov/planejaViagem",
+            "title": "Planejador de Viagem",
+            "description": "Projeto em React.js, Typescript, TailwindCSS e API Node.js."
+        },
+        {
+            "id": 2,
             "src": "/Imagens/projetos/gerenciaEvento.png",
             "link": "https://github.com/Schvuchov/GerenciaParticipantes",
             "title": "Gerencia Participantes",
             "description": "Projeto em React.js, Typescript, TailwindCSS e API Node.js."
         },
         {
-            "id": 2,
+            "id": 3,
             "src": "/Imagens/projetos/palavraSecreta.png",
             "link": "https://schvuchov.github.io/JogoPalavraSecreta/",
             "title": "Jogo Palavra Secreta",
             "description": "Jogo para descobrir a palavra desenvolvido usando React.js."
         },
         {
-            "id": 3,
+            "id": 4,
             "src": "/Imagens/projetos/miniBlog.png",
             "link": "https://schvuchov.github.io/MiniBlog_React/",
             "title": "MiniBlog",
             "description": "MiniBlog em React.js com Context, Firebase, Autenticação."
         },
         {
-            "id": 4,
+            "id": 5,
             "src": "/Imagens/projetos/petflix.png",
             "link": "https://schvuchov.github.io/Avaliacao_React_Petflix/",
             "title": "Petflix",
             "description": "Página Petflix desenvolvida para avaliação em React.js."
         },
         {
-            "id": 5,
+            "id": 6,
             "src": "/Imagens/projetos/mataMosquito.png",
             "link": "https://schvuchov.github.io/Jogo-Mata-Mosquito/",
             "title": "Jogo Mata Mosquito",
             "description": "Jogo desenvolvido usando HTML, CSS e Javascript."
         },
         {
-            "id": 6,
+            "id": 7,
             "src": "/Imagens/projetos/gerenciaCondominio.png",
             "link": "https://github.com/Schvuchov/gerenciar_condominio",
             "title": "Gerencia Condominio",
             "description": "Desenvolvido usando Typescript, gerencia com classes e métodos."
         },
         {
-            "id": 7,
+            "id": 8,
             "src": "/Imagens/projetos/CloneBear.png",
             "link": "https://github.com/Schvuchov/ClonePage_Bear",
             "title": "Clone de Página",
             "description": "Exercício desenvolvido usando HTML e CSS."
         },
         {
-            "id": 8,
+            "id": 9,
             "src": "/Imagens/projetos/CloneHallowen.png",
             "link": "https://github.com/Schvuchov/ClonePage_Hallowen",
             "title": "Clone de Página",
             "description": "Exercício desenvolvido usando HTML e CSS."
         },
         {
-            "id": 9,
+            "id": 10,
             "src": "/Imagens/projetos/CloneSignIn.png",
             "link": "https://github.com/Schvuchov/ClonePage_SignIn",
             "title": "Clone de Página",
