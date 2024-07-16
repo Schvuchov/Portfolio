@@ -65,6 +65,12 @@
             "src": "/Imagens/tecno/figma.jpeg",
             "title": "Figma",
             "description": "Conhecimento prático básico em Figma."
+        },
+        {
+            "id": 12,
+            "src": "/Imagens/tecno/scrum.png",
+            "title": "Scrum",
+            "description": "Certificado Scrum Foundations."
         }
     ]
 }
