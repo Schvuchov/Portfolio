@@ -35,12 +35,12 @@ const Skills = () => {
                             <div className="skillsImgDiv">
                                 <img className="skillsImg" src={item.src} alt="Imagem Habilidade"/>
                                 <h3 className="skillsCardTitle">{item.title}</h3>
-                                <button type="button" onClick={() => openDescription(index)}><Plus /></button>
+                                <button type="button" className="buttonSkill" onClick={() => openDescription(index)}><Plus /></button>
                             </div>
                         ) : (
                             <div className="skillsCardContent">
                                 <p className="skillsCardDescrip">{item.description}</p>
-                                <button type="button" onClick={() => closeDescription(index)} ><X /></button>
+                                <button type="button" className="buttonSkill" onClick={() => closeDescription(index)} ><X /></button>
                             </div>
                         )}
                     </div>
