@@ -1,4 +1,3 @@
-import React from 'react'
 import data from "../../data/indexProjects.json"
 import "./style.css"
 
@@ -17,17 +16,17 @@ const Projects = () => {
 
       <div className='projectsCard'>
         {data?.projects?.map((item, index) => (
-          <a href={item.link} className='projectsLink'>
-          <div key={index} className='projectsCardContent'>
-            <div className='projectsCardImg'>
-              <img src={item.src} alt="ImgProject"/>
-            </div>
+          <a key={index} href={item.link} className='projectsLink'>
+            <div className='projectsCardContent'>
+              <div className='projectsCardImg'>
+                <img src={item.src} alt="ImgProject"/>
+              </div>
 
-            <div className='projectsCardText'>
-              <h3 className='projectsh3'>{item.title}</h3>
-              <p className='projectsp'>{item.description}</p>
+              <div className='projectsCardText'>
+                <h3 className='projectsh3'>{item.title}</h3>
+                <p className='projectsp'>{item.description}</p>
+              </div>
             </div>
-          </div>
           </a>
         ))}
       </div>  

@@ -24,7 +24,7 @@ const Skills = () => {
 
     return (
         <section id="skillsSection" className="skillsSection">
-            <div>
+            <div className="skillsTitleSec">
                 <h2 className="skillsh2">Conhecimentos</h2>
                 <p className="skillsp">Alguns dos meus conhecimentos</p>
             </div>
