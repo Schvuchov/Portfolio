@@ -7,7 +7,7 @@
 .divStartSec{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .conteudoSec {
@@ -60,6 +60,9 @@ h1 {
         font-size: 85px;
         margin-bottom: 25px;
     }
+    .divStartSec{
+        justify-content: space-between;
+    }
     .startp{
         font-size: 22px;
     }
@@ -70,6 +73,7 @@ h1 {
         width: 30%;
     }
 }
+
 
 @media screen and (max-width: 1100px) {
     .startSec {
