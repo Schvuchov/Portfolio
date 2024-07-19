@@ -60,13 +60,14 @@
 
 .buttonSkill{
     border:  1px solid lightgrey;
+    border-radius: 6px;
     background-color: lightgrey;
     margin-left: auto;
 }
 
 .buttonSkill:hover{
     border: 1px solid black;
-    border-radius: 6px;
+    transition: 0.3s;
 }
   
 .skillsCardContent{
