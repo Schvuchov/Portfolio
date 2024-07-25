@@ -4,7 +4,7 @@ Portfólio sendo desenvolvido usando React + Vite.
 Introdução / Habilidades / Sobre mim / Projetos / Contato 
 
 
-## Disponível no link
+## Você pode acessar usando o link abaixo :)
 https://portfolio-omega-blush-10.vercel.app/
 
 
