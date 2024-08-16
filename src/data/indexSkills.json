@@ -71,6 +71,12 @@
             "src": "/Imagens/tecno/scrum.png",
             "title": "Scrum",
             "description": "Certificado Scrum Foundations."
+        },
+        {
+            "id": 13,
+            "src": "/Imagens/tecno/soft.png",
+            "title": "Soft Skills",
+            "description": "Certificado em Soft skills."
         }
     ]
 }
