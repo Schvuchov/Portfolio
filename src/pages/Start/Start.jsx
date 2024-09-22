@@ -23,7 +23,7 @@ const Start = () => {
                     </Link>    
                 </div>
                 <div className='imgStart'>
-                    <img src="/Imagens/startImg1.jpg" alt="Imagem Start" />
+                    <img src="/Imagens/StarImg2.png" alt="Imagem Start" />
                 </div>
             </div>
             
