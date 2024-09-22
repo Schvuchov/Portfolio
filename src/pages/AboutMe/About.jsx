@@ -10,7 +10,7 @@ const About = () => {
       </div>
       <div className='aboutContainerContent'>
         <div className="aboutSecImg">
-            <img src="/Imagens/Img2.png" alt="AboutMe" />
+            <img src="/Imagens/Img4.png" alt="AboutMe" />
         </div>
         <div className="aboutSecContentDiv">  
             <p className='aboutpContent'>Eu sou a Bárbara, tenho 28 anos, moro em Florianópolis. Viajante, amante da natureza e tutora do caramelo Mint.</p>
