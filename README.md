@@ -1,7 +1,8 @@
 # Portfólio 
 
-Portfólio sendo desenvolvido usando React + Vite.
-Introdução / Habilidades / Sobre mim / Projetos / Contato 
+  Portfólio sendo desenvolvido usando React + Vite.
+  Introdução / Habilidades / Sobre mim / Projetos / Contato 
+  -Testando imagens de fundo na primeira seção
 
 
 ## Você pode acessar usando o link abaixo :)
