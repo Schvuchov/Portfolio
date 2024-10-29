@@ -1,8 +1,5 @@
 .startSec {
-    background-image: url('/Imagens/Home.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: black;
     padding: 180px 160px;
     padding-top: 260px; 
 }
